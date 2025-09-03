@@ -2,12 +2,13 @@
 
 ### Catalogs
 
-- model-fit comparisons
+- model-fit comparisons 
 
 - cornerplot
     - ATMO2020++
     - Sonora Elf Owl
-
+    
+- obs_spec
 
 ### Contact
 
